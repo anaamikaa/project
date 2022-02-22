@@ -1,0 +1,16 @@
+h3{
+    color: darksalmon;
+    border: 80px whitesmoke;
+    text-align: left;
+}
+.par{
+    color: black;
+    text-align: left;
+}
+form
+{
+    background-color: azure;
+    border: 1px solid white;
+    height: 300px;
+    width: 400px;
+}
